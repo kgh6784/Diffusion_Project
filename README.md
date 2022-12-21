@@ -2,7 +2,8 @@
 
 ## Have to Read
 🔥 Core
-- [x] DDPM (code [x])
+- [x] DDPM
+  - [ ](code [x])
 - [x] DDIM (code [ ])
 - [ ] Classifier-free Diffusion Guidance (code [ ])
 - [ ] Diffusion Models Beat GANs on Image Synthesis (code [ ])
