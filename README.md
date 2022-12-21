@@ -2,7 +2,7 @@
 
 ## Have to Read
 🔥 Core
-- [x] DDPM
+- [x] DDPM ([paper])(https://arxiv.org/pdf/2211.00611v1.pdf)
   - [ ](code [x])
 - [x] DDIM (code [ ])
 - [ ] Classifier-free Diffusion Guidance (code [ ])
